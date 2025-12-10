@@ -1,0 +1,6 @@
+{
+  "name": "QA-Env",
+  "values": [
+    { "key": "base_url", "value": "https://reqres.in", "enabled": true }
+  ]
+}
